@@ -17,12 +17,22 @@ https://github.com/Project-Fairy/fairy-eye
 
 Fairy-eye detects the conditions around users by camera and guides them. Also, warns unexpedted situations such as motorcycles.
 
-### Mediapipe model custom Process
+### Mediapipe
 
 We used 'MediaPipe' for identifying object.<br>
+MediaPipe is composed of Python and TensorFlow, and we implemented it using Colab.<br>
 MediaPipe provides light model and easy to use in low-spec environments.<br>
 It supports various platforms such as Android, iOS, Desktop, and Web.<br>
 Also had the advantages of providing pre-optimized code, ready to use without complicated configuration processes, and free open source for cost-free use.
 
 #### mediapipe-modal-custom
 https://github.com/Project-Fairy/mediapipe-modal-custom
+
+### Android
+
+For more easier useage of trained model, an Android phone with a high penetration rate was used.<br>
+The Android application was developed using Kotlin.<br>
+
+### AI Studio
+
+To connect with Gemini, we experimented with using AI Studio which allowed for direct invocation on Android devices.
