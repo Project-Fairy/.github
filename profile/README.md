@@ -1,6 +1,6 @@
 # Welcome to Team.Fairy🧚
 
-we hope to provide comfort and make a world where everyone can coexist.<br>
+We hope to provide comfort and make a world where everyone can coexist.<br>
 Fairy-eye project is a “Walking assistance application” which can help individuals such as visually impaired.
 
 ## Application - Fairy Eye
